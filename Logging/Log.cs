@@ -3,7 +3,7 @@
 
 #endregion Using
 
-namespace Logging
+namespace Elsewhere.Logging
 {
 
     public class Log
