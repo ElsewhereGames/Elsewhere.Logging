@@ -4,6 +4,9 @@
 *.suo
 *.user
 
+## Nuget Artifacts ##
+packages/
+
 ## Build Artifacts ##
 [Dd]ebug/
 [Rr]elease/
